@@ -1,0 +1,3 @@
+[submodule "Bazlama.Web.Component"]
+	path = Bazlama.Web.Component
+	url = https://github.com/MuratBudun/Bazlama.Web.Component.git
